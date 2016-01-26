@@ -1,0 +1,128 @@
+.bootbox {
+    background: rgba(0,0,0,0.9);
+}
+
+.bootbox .modal-dialog {
+    width:450px;
+}
+
+.bootbox .modal-body {
+    padding: 13px 10px 11px 54px !important;
+    background: #fcfcfc;
+    min-height: 48px;
+}
+
+.bootbox .bootbox-body {
+}
+
+.bootbox .bootbox-body:before {
+    content: "\f05a";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #c2c2c2;
+    font-size: 35px;
+    padding-right: 1.5em;
+    position: absolute;
+    top: 0px;
+    left: 14px;
+}
+
+.bootbox .modal-header {
+    border-top: 4px solid #c2c2c2;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background: #fcfcfc;
+}
+
+.bootbox .modal-dialog {
+    margin: 15% auto !important;
+}
+
+.bootbox .modal-content {
+    background-color: transparent;
+/*    box-shadow: 0px 10px  5px rgba(0,0,0,0.6);
+    -moz-box-shadow: 0px 10px  5px  rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0px 10px 5px  rgba(0,0,0,0.6);
+    -o-box-shadow: 0px 10px 5px  rgba(0,0,0,0.6);*/
+}
+
+.bootbox .modal-footer {
+    background: #fcfcfc;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 0px !important;
+}
+
+.bootbox.success .bootbox-body:before { 
+    color: #1ab394;
+}
+
+.bootbox.danger .bootbox-body:before { 
+    color: #ed5565;
+}
+
+.bootbox.warning .bootbox-body:before { 
+    color: #f8ac59;
+}
+
+.bootbox.confirmation .bootbox-body:before { 
+    color: #1c84c6;
+}
+
+.bootbox.success .modal-header {
+    border-top: 4px solid #1ab394;
+}
+
+.bootbox.danger .modal-header {
+    border-top: 4px solid #ed5565;
+}
+
+.bootbox.warning .modal-header {
+    border-top: 4px solid #f8ac59;
+}
+
+.bootbox.confirmation .modal-header {
+    border-top: 4px solid #1c84c6;
+}
+
+.bootbox.success .bootbox-body:before {
+    content: "\f05d";
+}
+
+.bootbox.danger .bootbox-body:before {
+    content: "\f05c";
+}
+
+.bootbox.warning .bootbox-body:before {
+    content: "\f06a";
+}
+
+.bootbox.confirmation .bootbox-body:before {
+    content: "\f059";
+}
+
+.bootbox.prompt .bootbox-body:before {
+    content: "\f086";
+}
+
+.bootbox.success .btn-primary {
+    background-color: #1AB394;
+    border-color: #1AB394;
+}
+
+.bootbox.danger .btn-primary {
+    background-color: #ed5565;
+    border-color: #ed5565;
+}
+
+.bootbox.warning .btn-primary {
+    background-color: #f8ac59;
+    border-color: #f8ac59;
+}
+
+.bootbox.confirmation  .btn-primary, .bootbox.prompt .btn-primary {
+    background-color: #1c84c6;
+    border-color: #1c84c6;
+}

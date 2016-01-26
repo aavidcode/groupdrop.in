@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="aavidcode">
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/assets/js/app/controllers.js</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/views/poll/index.blade.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/app/Http/Controllers/PollDemandController.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/app/Http/routes.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/app/Models/PollsDemandsDetail.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/app/Models/PollsDemand.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/views/home.blade.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/views/layouts/master.blade.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/assets/js/app/app.js</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/app/Models/PollsDemandsDiscussion.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/views/layouts/footer.blade.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/views/index.blade.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/views/poll/create.blade.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/views/poll/demand/create.blade.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/assets/css/custom.css</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/resources/views/poll/partials/edit-option.blade.php</file>
+            <file>file:/E:/work/php/xampp/htdocs/groupdrop.in/app/Helpers/UtilHelper.php</file>
+        </group>
+    </open-files>
+</project-private>

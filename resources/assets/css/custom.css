@@ -1,0 +1,122 @@
+
+.navbar-brand {
+    z-index: 2;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+
+.navbar {
+    height:60px;
+}
+
+.navbar-login {
+    z-index: 2;
+    position: absolute;
+    top: 11px;
+    right: 20px;
+}
+
+i.fa {
+    padding-right: 5px;
+    line-height: 11px;
+}
+
+.modal-sm {
+    width:30%;
+}
+
+.modal-md {
+    width:50%;
+}
+
+.modal-lg {
+    width:60%;
+}
+
+.modal-header {
+    background: #e3e3e3;
+    text-align: center;
+    font-size:1em;
+    color:#333;
+}
+.modal-header .close {
+    font-size: 25px;
+    color: rgb(127, 127, 127);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    line-height: inherit;
+    cursor: pointer;
+    font-weight: 400;
+    padding: 0px 1.5rem;
+}
+
+.modal.fade .modal-dialog {
+    -webkit-transform: scale(0.1);
+    -moz-transform: scale(0.1);
+    -ms-transform: scale(0.1);
+    transform: scale(0.1);
+    top: 300px;
+    opacity: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.modal.fade.in .modal-dialog {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    -webkit-transform: translate3d(0, -300px, 0);
+    transform: translate3d(0, -300px, 0);
+    opacity: 1;
+}
+
+.poll_add {
+    border: 1px solid #C8ECF6;
+    color: #00AEDA;
+    display: block;
+    font-size: 9.375rem;
+    text-align: center;
+    height: 14.6875rem;
+}
+
+.button.button--light {
+    color: #00AEDA !important;
+    background-color: #E5F7FB;
+    border-color: #C8ECF6;
+    font-weight: 400;
+}
+
+.sticky-wrapper.is-sticky #sticker, .sticky-wrapper {
+    z-index: 999;
+}
+
+.poll_option {
+    border: 1px solid #E5E5E5;
+    padding:0;
+}
+
+.poll_option .poll_image {
+    text-align: center;   
+}
+
+.poll_option .poll_image img {
+    height:145px;
+}
+
+.poll_option .btn {
+    border-radius: 0;
+}
+
+.vote-count {
+    line-height: 12px;
+    margin-left: 25px;
+}
+
+.product-img img {
+    height:200px;
+    width:auto;
+}
